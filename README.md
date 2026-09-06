@@ -43,9 +43,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0044-wildcard-matching) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
