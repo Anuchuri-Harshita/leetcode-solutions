@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
