@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Manacher
 |  |
 | ------- |
