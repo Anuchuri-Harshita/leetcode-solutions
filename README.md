@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Manacher
 |  |
 | ------- |
@@ -110,14 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -126,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Rolling Hash
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
