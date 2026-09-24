@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
