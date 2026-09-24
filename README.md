@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Binary Tree
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Manacher
 |  |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
