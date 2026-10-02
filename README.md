@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
