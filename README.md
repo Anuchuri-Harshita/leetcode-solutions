@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Anuchuri-Harshita/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
